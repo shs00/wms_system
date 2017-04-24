@@ -35,7 +35,6 @@ long tstamp =  date.getTime();
 	var g_shipperCd   = null;
 	var g_inboundDate = null;
 	var g_inboundNo   = null;
-	var g_inboundNo11   = null;
 	
 	var g_slaveGridCallFalg = true;
 	
